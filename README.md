@@ -13,7 +13,7 @@ By combining film metadata, language models, and visual analysis, this project s
 
 ---
 
-## Notes
+### Notes
 The data is spread across different sources and formats. Basic merging and cleaning will involve steps like:  
 - Handling missing or short plot overviews.  
 - Parsing and normalizing fields like country and genre.  
