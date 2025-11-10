@@ -7,16 +7,16 @@ By combining film metadata, language models, and visual analysis, this project s
 ---
 
 ## Main Data Sources
-- **TMDb API**: metadata for ~4,000 horror movies (1950–2024): titles, genres, countries, keywords, posters, etc.
-- **LLM-generated labels**: manually defined "fear categories" and applied them using a natural language model.  
-- **Relevant scholarship**: to inform the typology of fears and interpretation.
+- **TMDb API**: metadata for ~5,000 horror movies from 1950 to 2024 (titles, genres, countries, keywords, posters, etc.)
+- **LLM-generated labels**: manually defined "fear categories" will be applied to the movie database using a large language model
+- **Relevant scholarship**: to inform the typology of fears and interpretation (e.g., King’s Danse Macabre (1981); G. Neil Martin’s (Why) Do You Like Scary Movies? (2019); etc).
 
 ---
 
 ## Notes
 The data is spread across different sources and formats. Basic merging and cleaning will involve steps like:  
-- Handling missing or short plot overviews (<150 chars).  
-- Parsing and normalizing country and genre fields.  
+- Handling missing or short plot overviews.  
+- Parsing and normalizing fields like country and genre.  
 - Extracting LLM-generated fear categories from text responses.  
 - Downloading and preprocessing poster images.  
 
@@ -32,8 +32,8 @@ The data is spread across different sources and formats. Basic merging and clean
 - How accurate is the LLM classification compared to a smaller manual sample?
 
 **Approach:**
-- Use film metadata and text-based features (title, overview, keywords) to classify each movie into one of 11 fear categories.  
-- Compare LLM-assigned labels to human-coded subsets for reliability testing.  
+- Use film metadata (title, overview, keywords) to classify each movie into one of the 11 fear categories.  
+- Compare LLM-assigned labels to human-coded subsets for accuracy testing.  
 - Analyze how the relative share of each fear type changes across time, region, and potentially gender.  
 - Optional focus: restrict the analysis to one country and contextualize findings with specific historical data (e.g., migration, conflict, or economic data).
 
@@ -47,5 +47,5 @@ Are there identifiable types of posters in the horror gender? Do they align with
 **Approach:**  
 - Download and analyze poster images.  
 - Extract visual features (color palettes, contrast, saturation, darkness, etc.)  
-- Cluster films visually to detect recurring patterns, using both unsupervised and supervised methods.
+- Cluster films visually to detect recurring patterns, trying both unsupervised and supervised methods.
 - Examine potental clusters in relation to fear categories, decades, and countries.
