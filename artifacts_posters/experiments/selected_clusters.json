@@ -1,0 +1,120 @@
+{
+  "experiment_name": "kmeans_k50_pca280_run1",
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "label": "Prestige / Arthouse Horror",
+      "collage_file": "cluster_1.jpg"
+    },
+    {
+      "cluster_id": 2,
+      "label": "HK\u2013Taiwan Ghosts & Jiangshi",
+      "collage_file": "cluster_2.jpg"
+    },
+    {
+      "cluster_id": 3,
+      "label": "Blue-Toned Alien / Underwater Isolation",
+      "collage_file": "cluster_3.jpg"
+    },
+    {
+      "cluster_id": 5,
+      "label": "Shark & Aquatic Monsters",
+      "collage_file": "cluster_5.jpg"
+    },
+    {
+      "cluster_id": 7,
+      "label": "Haunted House / Atmospheric Supernatural",
+      "collage_file": "cluster_7.jpg"
+    },
+    {
+      "cluster_id": 11,
+      "label": "Japanese V-Cinema Horror",
+      "collage_file": "cluster_11.jpg"
+    },
+    {
+      "cluster_id": 12,
+      "label": "Psychological / Trauma Arthouse",
+      "collage_file": "cluster_12.jpg"
+    },
+    {
+      "cluster_id": 14,
+      "label": "Zombies & Dead Branding",
+      "collage_file": "cluster_14.jpg"
+    },
+    {
+      "cluster_id": 15,
+      "label": "Torture Porn / Extreme Violence",
+      "collage_file": "cluster_15.jpg"
+    },
+    {
+      "cluster_id": 17,
+      "label": "Possessed Families & Haunted Homes",
+      "collage_file": "cluster_17.jpg"
+    },
+    {
+      "cluster_id": 19,
+      "label": "Illustrated Monsters / Psychedelic Cult",
+      "collage_file": "cluster_19.jpg"
+    },
+    {
+      "cluster_id": 20,
+      "label": "Elite J/K-Horror Curses",
+      "collage_file": "cluster_20.jpg"
+    },
+    {
+      "cluster_id": 22,
+      "label": "Vintage Occult & Witchcraft",
+      "collage_file": "cluster_22.jpg"
+    },
+    {
+      "cluster_id": 25,
+      "label": "1950s Creature Features",
+      "collage_file": "cluster_25.jpg"
+    },
+    {
+      "cluster_id": 27,
+      "label": "Anime Horror / Dark Fantasy",
+      "collage_file": "cluster_27.jpg"
+    },
+    {
+      "cluster_id": 28,
+      "label": "Modern Slasher & Gore Revival",
+      "collage_file": "cluster_28.jpg"
+    },
+    {
+      "cluster_id": 31,
+      "label": "Modern Curses & Ghost Stories",
+      "collage_file": "cluster_31.jpg"
+    },
+    {
+      "cluster_id": 32,
+      "label": "Ritual / Folk / Exploitation Horror",
+      "collage_file": "cluster_32.jpg"
+    },
+    {
+      "cluster_id": 34,
+      "label": "Vintage Japanese Kaidan",
+      "collage_file": "cluster_34.jpg"
+    },
+    {
+      "cluster_id": 35,
+      "label": "VHS-Era Neon Supernatural Cult",
+      "collage_file": "cluster_35.jpg"
+    },
+    {
+      "cluster_id": 37,
+      "label": "Modern Kaiju & Giant Creatures",
+      "collage_file": "cluster_37.jpg"
+    },
+    {
+      "cluster_id": 39,
+      "label": "VHS-Era Cult Horror (Hybrid)",
+      "collage_file": "cluster_39.jpg"
+    },
+    {
+      "cluster_id": 49,
+      "label": "Religious Horror / Exorcism",
+      "collage_file": "cluster_49.jpg"
+    }
+  ]
+}
