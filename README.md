@@ -1,5 +1,4 @@
 # Anatomy of Horror  
-**Milestone 01 — 2025/10/24**  
 
 The goal of this project is to explore **horror films as a cultural barometer**, reflecting collective anxieties across time, geography, and culture.  
 By combining film metadata, language models, and visual analysis, this project seeks to uncover patterns linking the menaces that define horror to the contexts that produce them.
