@@ -1,0 +1,95 @@
+{
+  "experiment_name": "kmeans_k50_pca280",
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "label": "Shark & Aquatic Monster Horror",
+      "collage_file": "cluster_1.jpg"
+    },
+    {
+      "cluster_id": 3,
+      "label": "Modern Creature Feature Horror",
+      "collage_file": "cluster_3.jpg"
+    },
+    {
+      "cluster_id": 8,
+      "label": "Vintage Camp & Creature Schlock (1960s-80s)",
+      "collage_file": "cluster_8.jpg"
+    },
+    {
+      "cluster_id": 9,
+      "label": "Modern Isolation & Survival Horror",
+      "collage_file": "cluster_9.jpg"
+    },
+    {
+      "cluster_id": 14,
+      "label": "Classic Monster Movies (1950s-1960s)",
+      "collage_file": "cluster_14.jpg"
+    },
+    {
+      "cluster_id": 16,
+      "label": "Japanese Pinku Eiga",
+      "collage_file": "cluster_16.jpg"
+    },
+    {
+      "cluster_id": 22,
+      "label": "Modern Female-Led Psychological Horror",
+      "collage_file": "cluster_22.jpg"
+    },
+    {
+      "cluster_id": 25,
+      "label": "Rural / Backwoods Survival Horror",
+      "collage_file": "cluster_25.jpg"
+    },
+    {
+      "cluster_id": 28,
+      "label": "Vintage Illustrated Monster Movies (Pre-1980)",
+      "collage_file": "cluster_28.jpg"
+    },
+    {
+      "cluster_id": 30,
+      "label": "Supernatural Gothic Horror (1990s-2000s)",
+      "collage_file": "cluster_30.jpg"
+    },
+    {
+      "cluster_id": 31,
+      "label": "Latin American Horror (Vintage)",
+      "collage_file": "cluster_31.jpg"
+    },
+    {
+      "cluster_id": 39,
+      "label": "Modern Monster & Creature Horror",
+      "collage_file": "cluster_39.jpg"
+    },
+    {
+      "cluster_id": 41,
+      "label": "Vintage Gothic (mix)",
+      "collage_file": "cluster_41.jpg"
+    },
+    {
+      "cluster_id": 42,
+      "label": "Religious Horror",
+      "collage_file": "cluster_42.jpg"
+    },
+    {
+      "cluster_id": 43,
+      "label": "Modern Neon / Synthwave",
+      "collage_file": "cluster_43.jpg"
+    },
+    {
+      "cluster_id": 46,
+      "label": "B-Movie Creature Features & Kaiju",
+      "collage_file": "cluster_46.jpg"
+    },
+    {
+      "cluster_id": 47,
+      "label": "Modern Teen / Ensemble Horror-Comedy",
+      "collage_file": "cluster_47.jpg"
+    },
+    {
+      "cluster_id": 48,
+      "label": "South Asian Horror",
+      "collage_file": "cluster_48.jpg"
+    }
+  ]
+}
